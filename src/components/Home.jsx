@@ -7,8 +7,7 @@ function Home() {
  
   return (
     <>
-    <h1>My name is  </h1>
-    <Movies></Movies>
+    <Movies/>
    
  
     </>
